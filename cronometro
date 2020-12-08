@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8"/>
+  <title>Cronômetro</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+  </style>
+</head>
+<body>
+  <div class="centered">
+    
+  </div>
+</body>
+</html>
